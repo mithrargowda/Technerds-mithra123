@@ -1,0 +1,13 @@
+h2{
+    font-size: xx-small;
+}
+h6{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-style: italic;
+}
